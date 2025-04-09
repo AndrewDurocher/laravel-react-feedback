@@ -260,9 +260,6 @@ backend/
 │   │   │       └── FeedbackController.php
 │   │   └── Requests/
 │   │       └── StoreFeedbackRequest.php
-│   ├── Livewire/
-│   │   ├── FeedbackForm.php
-│   │   └── FeedbackList.php
 │   └── Models/
 │       └── Feedback.php
 ├── database/
@@ -273,14 +270,6 @@ backend/
 ├── routes/
 │   ├── api.php
 │   └── web.php
-└── resources/
-    └── views/
-        ├── feedback.blade.php
-        ├── layouts/
-        │   └── app.blade.php
-        └── livewire/
-            ├── feedback-form.blade.php
-            └── feedback-list.blade.php
 ```
 
 ### Frontend
