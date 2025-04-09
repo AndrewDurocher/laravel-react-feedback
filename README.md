@@ -289,7 +289,15 @@ frontend/
 ## 🔄 API Endpoints
 
 ### GET /api/feedback
-Retrieves the 10 most recent feedback entries.
+Retrieves paginated feedback entries.
 
 Query parameters:
-- `
+- `page` (integer): The page number for pagination (default: 1)
+- `rating` (integer, optional): Filter feedback by rating (1-5)
+
+Each page returns 5 items per page.
+
+## 🔄 API Endpoints
+
+### GET /api/feedback
+Retrieves the 10 most recent feedback entries.
