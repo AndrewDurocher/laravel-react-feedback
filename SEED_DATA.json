@@ -1,0 +1,182 @@
+[
+  {
+    "customer_name": "James Smith",
+    "message": "The staff was very friendly and helpful. Looking forward to coming back soon!",
+    "rating": 5,
+    "created_at": "2025-03-20T14:32:45"
+  },
+  {
+    "customer_name": "Mary Johnson",
+    "message": "[App Experience] The app is very intuitive and easy to use. This exceeded my expectations.",
+    "rating": 4,
+    "created_at": "2025-03-23T10:15:32"
+  },
+  {
+    "customer_name": "John Williams",
+    "message": "My kids had a great time at your facility. My children absolutely loved it.",
+    "rating": 5,
+    "created_at": "2025-03-25T16:45:12"
+  },
+  {
+    "customer_name": "Patricia Brown",
+    "message": "The food quality was excellent. I appreciate your attention to detail.",
+    "rating": 4,
+    "created_at": "2025-03-27T12:30:45"
+  },
+  {
+    "customer_name": "Robert Davis",
+    "message": "The venue was very clean and well-maintained. Keep up the great work!",
+    "rating": 5,
+    "created_at": "2025-03-29T17:20:18"
+  },
+  {
+    "customer_name": "Jennifer Wilson",
+    "message": "I had an excellent experience with your team. The value for money is excellent.",
+    "rating": 5,
+    "created_at": "2025-04-01T09:14:23"
+  },
+  {
+    "customer_name": "Michael Moore",
+    "message": "I love the new features you've added. This has become our favorite family activity.",
+    "rating": 4,
+    "created_at": "2025-04-02T13:42:56"
+  },
+  {
+    "customer_name": "Linda Taylor",
+    "message": "[Family Entertainment] We enjoyed the variety of activities available.",
+    "rating": 4,
+    "created_at": "2025-04-03T15:32:21"
+  },
+  {
+    "customer_name": "William Anderson",
+    "message": "Great variety of snacks and drinks. I would definitely recommend this to friends and family.",
+    "rating": 5,
+    "created_at": "2025-04-04T10:54:37"
+  },
+  {
+    "customer_name": "Elizabeth Thomas",
+    "message": "The bathrooms were spotless.",
+    "rating": 3,
+    "created_at": "2025-04-04T14:23:09"
+  },
+  {
+    "customer_name": "David Jackson",
+    "message": "Your customer service team resolved my issue quickly. Thank you for making our visit special.",
+    "rating": 5,
+    "created_at": "2025-04-05T11:12:45"
+  },
+  {
+    "customer_name": "Susan White",
+    "message": "The app interface is clean and modern.",
+    "rating": 4,
+    "created_at": "2025-04-06T16:37:29"
+  },
+  {
+    "customer_name": "Richard Harris",
+    "message": "[Family Entertainment] The entertainment options for all ages were excellent. The value for money is excellent.",
+    "rating": 5,
+    "created_at": "2025-04-06T18:02:14"
+  },
+  {
+    "customer_name": "Jessica Martin",
+    "message": "The menu had good options for kids and adults.",
+    "rating": 3,
+    "created_at": "2025-04-07T09:42:51"
+  },
+  {
+    "customer_name": "Joseph Thompson",
+    "message": "I was impressed by how clean everything was. This is why we keep coming back.",
+    "rating": 4,
+    "created_at": "2025-04-07T14:18:33"
+  },
+  {
+    "customer_name": "Sarah Garcia",
+    "message": "The employee who helped me was very knowledgeable. I appreciate your attention to detail.",
+    "rating": 5,
+    "created_at": "2025-04-08T10:27:42"
+  },
+  {
+    "customer_name": "Thomas Martinez",
+    "message": "I found everything I needed quickly. This exceeded my expectations.",
+    "rating": 4,
+    "created_at": "2025-04-08T13:45:19"
+  },
+  {
+    "customer_name": "Karen Robinson",
+    "message": "Our family had an amazing day at LilYPad. My children absolutely loved it.",
+    "rating": 5,
+    "created_at": "2025-04-08T16:22:05"
+  },
+  {
+    "customer_name": "Charles Clark",
+    "message": "[Food & Beverages] The prices were reasonable for the quality.",
+    "rating": 3,
+    "created_at": "2025-04-09T09:11:37"
+  },
+  {
+    "customer_name": "Nancy Rodriguez",
+    "message": "The staff did a great job keeping everything tidy. Keep up the great work!",
+    "rating": 4,
+    "created_at": "2025-04-09T11:23:48"
+  },
+  {
+    "customer_name": "Lisa Lewis",
+    "message": "I was impressed by how attentive your staff was. I would definitely recommend this to friends and family.",
+    "rating": 5,
+    "created_at": "2025-01-15T14:32:45"
+  },
+  {
+    "customer_name": "Daniel Lee",
+    "message": "The app loads very fast on my device.",
+    "rating": 4,
+    "created_at": "2025-01-20T10:15:32"
+  },
+  {
+    "customer_name": "Matthew Walker",
+    "message": "[Family Entertainment] The birthday party package exceeded our expectations. This has become our favorite family activity.",
+    "rating": 5,
+    "created_at": "2025-01-25T16:45:12"
+  },
+  {
+    "customer_name": "Betty Hall",
+    "message": "Service at the food counter was quick.",
+    "rating": 3,
+    "created_at": "2025-01-30T12:30:45"
+  },
+  {
+    "customer_name": "Anthony Allen",
+    "message": "The hygienic standards were excellent. The value for money is excellent.",
+    "rating": 4,
+    "created_at": "2025-02-05T17:20:18"
+  },
+  {
+    "customer_name": "Margaret Young",
+    "message": "Had trouble finding the entrance. The signage could be better.",
+    "rating": 2,
+    "created_at": "2025-02-10T09:14:23"
+  },
+  {
+    "customer_name": "Mark Hernandez",
+    "message": "Waited too long in line at the concession stand.",
+    "rating": 2,
+    "created_at": "2025-02-15T13:42:56"
+  },
+  {
+    "customer_name": "Sandra King",
+    "message": "The arcade machines were out of order. My kids were disappointed.",
+    "rating": 1,
+    "created_at": "2025-02-20T15:32:21"
+  },
+  {
+    "customer_name": "Donald Smith",
+    "message": "The staff was not very helpful with my concerns.",
+    "rating": 1,
+    "created_at": "2025-02-25T10:54:37"
+  },
+  {
+    "customer_name": "Ashley Johnson",
+    "message": "Had to wait too long for service.",
+    "rating": 2,
+    "created_at": "2025-03-01T14:23:09"
+  }
+]
