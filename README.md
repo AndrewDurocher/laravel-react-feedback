@@ -296,8 +296,3 @@ Query parameters:
 - `rating` (integer, optional): Filter feedback by rating (1-5)
 
 Each page returns 5 items per page.
-
-## 🔄 API Endpoints
-
-### GET /api/feedback
-Retrieves the 10 most recent feedback entries.
